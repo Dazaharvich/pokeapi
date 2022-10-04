@@ -1,0 +1,17 @@
+a {
+    text-decoration: none;
+    color: white;
+    margin-right: 2rem;
+    font-weight: 700;
+  }
+  
+  .navbar {
+    background: #e21a0cd7;
+    padding: 1.5rem;
+    color: white;
+    font-size: 2rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
